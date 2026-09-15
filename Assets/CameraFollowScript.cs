@@ -39,7 +39,7 @@ public class CameraFollowScript : MonoBehaviour
         Vector3 x = Vector3.Dot(transform.right, adjust)*transform.right;
         Vector3 y = Vector3.Dot(transform.up, adjust)* transform.up;
 
-        if (Math.Abs(x.magnitude) > 8*16/10)
+        if (Math.Abs(x.magnitude) > 8*16f/10f)
         {
             transform.position += (x) * 1.99f;
         }

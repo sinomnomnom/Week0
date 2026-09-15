@@ -38,7 +38,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Albedo:
-        m_Texture: {fileID: 2800000, guid: ad297175ccb3e854e86b6a168723c4e6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5318452fbf8526c43ac111e50d7580fa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlphaTex:
@@ -75,7 +75,7 @@ Material:
     - _EnableExternalAlpha: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _ScrollSpeedX: 5
+    - _ScrollSpeedX: 2.5
     - _ScrollSpeedY: 0
     - _Segments: 40
     - _ZWrite: 0

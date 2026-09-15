@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: efcdf176828b00145a78bdb250e11263
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8884273366099992237
+    second: alien_walk_0
+  - first:
+      213: 4164819986553156
+    second: alien_walk_1
+  - first:
+      213: -794065154971245500
+    second: alien_walk_2
+  - first:
+      213: 1648353061560332085
+    second: alien_walk_3
+  - first:
+      213: -6062731642447067427
+    second: alien_walk_4
+  - first:
+      213: 920856670928284860
+    second: alien_walk_5
+  - first:
+      213: 3075308272856088384
+    second: alien_walk_6
+  - first:
+      213: -1143206378418355736
+    second: alien_walk_7
+  - first:
+      213: -8051363649297874122
+    second: alien_walk_8
+  - first:
+      213: -480982493105587452
+    second: alien_walk_9
+  - first:
+      213: 4480514324412724446
+    second: alien_walk_10
+  - first:
+      213: 8611200794117691526
+    second: alien_walk_11
+  - first:
+      213: 3415632708810150493
+    second: alien_walk_12
+  - first:
+      213: -1614325986988663001
+    second: alien_walk_13
+  - first:
+      213: 2320764514582919940
+    second: alien_walk_14
+  - first:
+      213: 389533385164583099
+    second: alien_walk_15
+  - first:
+      213: -7783980009589024727
+    second: alien_walk_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alien_walk_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1583
+        width: 1704
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516526c178b4b480800000000000000
+      internalID: -8884273366099992237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_1
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1539
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4491ad7b1ebce0000800000000000000
+      internalID: 4164819986553156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_2
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1550
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4446c6dd2f9eaf4f0800000000000000
+      internalID: -794065154971245500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_3
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 28
+        width: 612
+        height: 1518
+      alignment: 9
+      pivot: {x: 0.5647691, y: 0.39723536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2bba406020e610800000000000000
+      internalID: 1648353061560332085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_4
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1513
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd60c6361b9dcdba0800000000000000
+      internalID: -6062731642447067427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 39
+        width: 521
+        height: 1459
+      alignment: 9
+      pivot: {x: 0.52945095, y: 0.39483267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcaab7634a87cc00800000000000000
+      internalID: 920856670928284860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_6
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1425
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f386a9490bdaa20800000000000000
+      internalID: 3075308272856088384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1433
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c9651bd38220f0800000000000000
+      internalID: -1143206378418355736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 7
+        width: 479
+        height: 1478
+      alignment: 9
+      pivot: {x: 0.52135545, y: 0.42992455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6338b1e3b6fc34090800000000000000
+      internalID: -8051363649297874122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_9
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 35
+        width: 617
+        height: 1381
+      alignment: 9
+      pivot: {x: 0.38601896, y: 0.4287061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b724b88f43359f0800000000000000
+      internalID: -480982493105587452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 576
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed47bad0a0cfd2e30800000000000000
+      internalID: 4480514324412724446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 17
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68852f68f71218770800000000000000
+      internalID: 8611200794117691526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_12
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 23
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5295d31ad3c66f20800000000000000
+      internalID: 3415632708810150493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 278
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fdbd16113c899e0800000000000000
+      internalID: -1614325986988663001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_14
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 1137
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bfb03b703053020800000000000000
+      internalID: 2320764514582919940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 5
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f3eacc86e76500800000000000000
+      internalID: 389533385164583099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien_walk_16
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 188
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92854bd2c6fb9f390800000000000000
+      internalID: -7783980009589024727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4d2b033f629a4d7419051eb348e9b5e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alien_walk_0: -8884273366099992237
+      alien_walk_1: 4164819986553156
+      alien_walk_10: 4480514324412724446
+      alien_walk_11: 8611200794117691526
+      alien_walk_12: 3415632708810150493
+      alien_walk_13: -1614325986988663001
+      alien_walk_14: 2320764514582919940
+      alien_walk_15: 389533385164583099
+      alien_walk_16: -7783980009589024727
+      alien_walk_2: -794065154971245500
+      alien_walk_3: 1648353061560332085
+      alien_walk_4: -6062731642447067427
+      alien_walk_5: 920856670928284860
+      alien_walk_6: 3075308272856088384
+      alien_walk_7: -1143206378418355736
+      alien_walk_8: -8051363649297874122
+      alien_walk_9: -480982493105587452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

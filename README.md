@@ -5,5 +5,5 @@ During the process I definitely got caught up in getting the shader and animatio
 
 I made the camera somewhat fixed but only moving once the player moves offscreen as a way to show the extreme speeds that might not come through If the camera just followed the player when the ground is also moving, but it really decreases readability, especially on low refresh rate screens. Even at 60fps it is not easy to read, and any lower than that I would guess is just unplayable. Testing it a 240fps makes a huge difference. I would probably change that if I could, and instead have a "reference" point part on the top or bottom to represent the world speeding by in an abstract way, and keep the camera in one place.
 
-[]!(https://github.com/sinomnomnom/Week0/blob/6bb0e48526b1d5111c689e265edf38e7277118f7/infiniteMovingWalkway-ezgif.com-cut.gif)
+[]!(https://github.com/sinomnomnom/Week0/infiniteMovingWalkway-ezgif.com-cut.gif)
 maybe the worst game to view as a gif, im sorry for your eyes :(

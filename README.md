@@ -7,3 +7,5 @@ I made the camera somewhat fixed but only moving once the player moves offscreen
 
 []!(https://github.com/sinomnomnom/Week0/infiniteMovingWalkway-ezgif.com-cut.gif)
 maybe the worst game to view as a gif, im sorry for your eyes :(
+
+I used this as a base for the walkway shader: https://github.com/nicholas-maltbie/Scrolling-Shaders-Example

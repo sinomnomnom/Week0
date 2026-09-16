@@ -1,0 +1,1277 @@
+fileFormatVersion: 2
+guid: 9e95454c4abed0d4ebd19ae0540125bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6116368202905607477
+    second: speedster 1_0
+  - first:
+      213: -5273358832807311888
+    second: speedster 1_1
+  - first:
+      213: -6039060572021648907
+    second: speedster 1_2
+  - first:
+      213: 7183010710615208051
+    second: speedster 1_3
+  - first:
+      213: -5235544454689317108
+    second: speedster 1_4
+  - first:
+      213: -6437929085964980319
+    second: speedster 1_5
+  - first:
+      213: 3731145830899623999
+    second: speedster 1_6
+  - first:
+      213: 8937767777271901675
+    second: speedster 1_7
+  - first:
+      213: -4095576258822231155
+    second: speedster 1_8
+  - first:
+      213: -307021241260181128
+    second: speedster 1_9
+  - first:
+      213: 4277557198168431059
+    second: speedster 1_10
+  - first:
+      213: -1513593541731284636
+    second: speedster 1_11
+  - first:
+      213: 8810864192883421961
+    second: speedster 1_12
+  - first:
+      213: 1917892459194999895
+    second: speedster 1_13
+  - first:
+      213: -4402445511887868128
+    second: speedster 1_14
+  - first:
+      213: 2623490585466916111
+    second: speedster 1_15
+  - first:
+      213: 3891506135615790569
+    second: speedster 1_16
+  - first:
+      213: -2575894888472362492
+    second: speedster 1_17
+  - first:
+      213: -6306204283544791986
+    second: speedster 1_18
+  - first:
+      213: 3302233895301436851
+    second: speedster 1_19
+  - first:
+      213: 7495240909308049127
+    second: speedster 1_20
+  - first:
+      213: 5778859063818946888
+    second: speedster 1_21
+  - first:
+      213: 4387496881708567180
+    second: speedster 1_22
+  - first:
+      213: -5201173802274678103
+    second: speedster 1_23
+  - first:
+      213: 5686002665299105508
+    second: speedster 1_24
+  - first:
+      213: 4809400715540530917
+    second: speedster 1_25
+  - first:
+      213: 8308948885212129704
+    second: speedster 1_26
+  - first:
+      213: -2769610910110674503
+    second: speedster 1_27
+  - first:
+      213: 6623415753166685205
+    second: speedster 1_28
+  - first:
+      213: 5633787148637016738
+    second: speedster 1_29
+  - first:
+      213: -4633443557437269053
+    second: speedster 1_30
+  - first:
+      213: 5472568870917972734
+    second: speedster 1_31
+  - first:
+      213: -6495174933084656693
+    second: speedster 1_32
+  - first:
+      213: 2851065322048335085
+    second: speedster 1_33
+  - first:
+      213: 4287462089986546278
+    second: speedster 1_34
+  - first:
+      213: -7656376263807603203
+    second: speedster 1_35
+  - first:
+      213: -8357095266620715460
+    second: speedster 1_36
+  - first:
+      213: -7893395760433167529
+    second: speedster 1_37
+  - first:
+      213: 5166016149803052052
+    second: speedster 1_38
+  - first:
+      213: 3295804633530485866
+    second: speedster 1_39
+  - first:
+      213: 7974814729186117398
+    second: speedster 1_40
+  - first:
+      213: 4855590993983372639
+    second: speedster 1_41
+  - first:
+      213: 4005266588847486868
+    second: speedster 1_42
+  - first:
+      213: 6209487803826615330
+    second: speedster 1_43
+  - first:
+      213: 3092991842669906409
+    second: speedster 1_44
+  - first:
+      213: -672313533615178889
+    second: speedster 1_45
+  - first:
+      213: -5483445773561383756
+    second: speedster 1_46
+  - first:
+      213: 5873223961810053161
+    second: speedster 1_47
+  - first:
+      213: -2707774293342342731
+    second: speedster 1_48
+  - first:
+      213: -175910602417637361
+    second: speedster 1_49
+  - first:
+      213: 1330296266517630787
+    second: speedster 1_50
+  - first:
+      213: 4403755951097106628
+    second: speedster 1_51
+  - first:
+      213: -5745427919534817444
+    second: speedster 1_52
+  - first:
+      213: -3064959759967703674
+    second: speedster 1_53
+  - first:
+      213: -7941818589510515463
+    second: speedster 1_54
+  - first:
+      213: 107705796771973184
+    second: speedster 1_55
+  - first:
+      213: 7117877674047748266
+    second: speedster 1_56
+  - first:
+      213: -6495501286237596124
+    second: speedster 1_57
+  - first:
+      213: 6802524329550789670
+    second: speedster 1_58
+  - first:
+      213: 7126891336381010991
+    second: speedster 1_59
+  - first:
+      213: 8251877422954472695
+    second: speedster 1_60
+  - first:
+      213: 1044674905068901704
+    second: speedster 1_61
+  - first:
+      213: -6398386161904316380
+    second: speedster 1_62
+  - first:
+      213: -1156743456783438692
+    second: speedster 1_63
+  - first:
+      213: 2923184138676171999
+    second: speedster 1_64
+  - first:
+      213: 2861874799002103550
+    second: speedster 1_65
+  - first:
+      213: -5382814134765049286
+    second: speedster 1_66
+  - first:
+      213: -6892180237451874897
+    second: speedster 1_67
+  - first:
+      213: -2893853328469628935
+    second: speedster 1_68
+  - first:
+      213: -856981232662022656
+    second: speedster 1_69
+  - first:
+      213: 5557216225135608074
+    second: speedster 1_70
+  - first:
+      213: 4416696234816101739
+    second: speedster 1_71
+  - first:
+      213: 6235675188827966415
+    second: speedster 1_72
+  - first:
+      213: -2706215471167259096
+    second: speedster 1_73
+  - first:
+      213: 6787869812920778592
+    second: speedster 1_74
+  - first:
+      213: -6891433183030614279
+    second: speedster 1_75
+  - first:
+      213: -3509365632781943121
+    second: speedster 1_76
+  - first:
+      213: -6499033006147258867
+    second: speedster 1_77
+  - first:
+      213: -7571844218472296691
+    second: speedster 1_78
+  - first:
+      213: 590336631840632748
+    second: speedster 1_79
+  - first:
+      213: 7024738179002641749
+    second: speedster 1_80
+  - first:
+      213: 4138533842233529698
+    second: speedster 1_81
+  - first:
+      213: -2658178752391777905
+    second: speedster 1_82
+  - first:
+      213: -8072086701307457461
+    second: speedster 1_83
+  - first:
+      213: 3883241656625521034
+    second: speedster 1_84
+  - first:
+      213: 4340330995673827133
+    second: speedster 1_85
+  - first:
+      213: 2601337327628691797
+    second: speedster 1_86
+  - first:
+      213: 4689188280259666961
+    second: speedster 1_87
+  - first:
+      213: -5075453819560400115
+    second: speedster 1_88
+  - first:
+      213: -7109174679885432480
+    second: speedster 1_89
+  - first:
+      213: -7366679349928227796
+    second: speedster 1_90
+  - first:
+      213: 2756719304290190535
+    second: speedster 1_91
+  - first:
+      213: -1846134458144498762
+    second: speedster 1_92
+  - first:
+      213: 7801698381198247399
+    second: speedster 1_93
+  - first:
+      213: -6941047025911119365
+    second: speedster 1_94
+  - first:
+      213: -7917278972115907119
+    second: speedster 1_95
+  - first:
+      213: 6664127339580450890
+    second: speedster 1_96
+  - first:
+      213: -8218533186959409739
+    second: speedster 1_97
+  - first:
+      213: 8864671055617349383
+    second: speedster 1_98
+  - first:
+      213: 7906356456938284681
+    second: speedster 1_99
+  - first:
+      213: 4502429568002775276
+    second: speedster 1_100
+  - first:
+      213: 1039595996947640398
+    second: speedster 1_101
+  - first:
+      213: -5467275781739774965
+    second: speedster 1_102
+  - first:
+      213: -2236601233600058867
+    second: speedster 1_103
+  - first:
+      213: 7430832238099526531
+    second: speedster 1_104
+  - first:
+      213: -8477529021559864358
+    second: speedster 1_105
+  - first:
+      213: -5203310730011109099
+    second: speedster 1_106
+  - first:
+      213: 4574635106517029722
+    second: speedster 1_107
+  - first:
+      213: -8502129947025630284
+    second: speedster 1_108
+  - first:
+      213: -4907242797531728214
+    second: speedster 1_109
+  - first:
+      213: 5983309249094631924
+    second: speedster 1_110
+  - first:
+      213: 232227929713468606
+    second: speedster 1_111
+  - first:
+      213: 2980124047079208311
+    second: speedster 1_112
+  - first:
+      213: -4471515666639925159
+    second: speedster 1_113
+  - first:
+      213: -2101373216359146385
+    second: speedster 1_114
+  - first:
+      213: 3666565440305453850
+    second: speedster 1_115
+  - first:
+      213: 4085243226094075018
+    second: speedster 1_116
+  - first:
+      213: -4456770696351835048
+    second: speedster 1_117
+  - first:
+      213: -1116914133567622506
+    second: speedster 1_118
+  - first:
+      213: -6481603252077676488
+    second: speedster 1_119
+  - first:
+      213: 5463479694110084112
+    second: speedster 1_120
+  - first:
+      213: 2086053379711150092
+    second: speedster 1_121
+  - first:
+      213: -2446528551690939483
+    second: speedster 1_122
+  - first:
+      213: 1934646823778925451
+    second: speedster 1_123
+  - first:
+      213: 7085001674060281809
+    second: speedster 1_124
+  - first:
+      213: -546590122988730726
+    second: speedster 1_125
+  - first:
+      213: -706209280526171717
+    second: speedster 1_126
+  - first:
+      213: -8934664964614052619
+    second: speedster 1_127
+  - first:
+      213: -5763625016013445312
+    second: speedster 1_128
+  - first:
+      213: 4961929871504226120
+    second: speedster 1_129
+  - first:
+      213: 4942700501095711812
+    second: speedster 1_130
+  - first:
+      213: -8516687664915314253
+    second: speedster 1_131
+  - first:
+      213: 4724655458845189796
+    second: speedster 1_132
+  - first:
+      213: 6085662853646396778
+    second: speedster 1_133
+  - first:
+      213: 8308442646207440355
+    second: speedster 1_134
+  - first:
+      213: -3900777397655406633
+    second: speedster 1_135
+  - first:
+      213: -7356523318777752095
+    second: speedster 1_136
+  - first:
+      213: 1964654702415908212
+    second: speedster 1_137
+  - first:
+      213: 8069788952863337481
+    second: speedster 1_138
+  - first:
+      213: -6232491561222431936
+    second: speedster 1_139
+  - first:
+      213: -8512108807491211770
+    second: speedster 1_140
+  - first:
+      213: -4718574277023847521
+    second: speedster 1_141
+  - first:
+      213: 6891744614344042905
+    second: speedster 1_142
+  - first:
+      213: -1792136481924583087
+    second: speedster 1_143
+  - first:
+      213: 3652022864188906459
+    second: speedster 1_144
+  - first:
+      213: -7199448414542446553
+    second: speedster 1_145
+  - first:
+      213: -4463242392234767772
+    second: speedster 1_146
+  - first:
+      213: 7998688603949259181
+    second: speedster 1_147
+  - first:
+      213: 6551098765592782744
+    second: speedster 1_148
+  - first:
+      213: 4751999164469115994
+    second: speedster 1_149
+  - first:
+      213: 4475362309932333038
+    second: speedster 1_150
+  - first:
+      213: -3428712766499219598
+    second: speedster 1_151
+  - first:
+      213: 150032205163688092
+    second: speedster 1_152
+  - first:
+      213: 8228624190072223426
+    second: speedster 1_153
+  - first:
+      213: -6700824908067525381
+    second: speedster 1_154
+  - first:
+      213: -5288626013187988808
+    second: speedster 1_155
+  - first:
+      213: 3270828015595253729
+    second: speedster 1_156
+  - first:
+      213: 5653275078658944904
+    second: speedster 1_157
+  - first:
+      213: 8747933890653451012
+    second: speedster 1_158
+  - first:
+      213: -5128140009839607305
+    second: speedster 1_159
+  - first:
+      213: -1436994322184371806
+    second: speedster 1_160
+  - first:
+      213: -2602745540680264614
+    second: speedster 1_161
+  - first:
+      213: -2362410476183331919
+    second: speedster 1_162
+  - first:
+      213: 1559444617854534455
+    second: speedster 1_163
+  - first:
+      213: -7206602718718885258
+    second: speedster 1_164
+  - first:
+      213: 8179713961536071020
+    second: speedster 1_165
+  - first:
+      213: -7775789676343569356
+    second: speedster 1_166
+  - first:
+      213: -4530618949371578415
+    second: speedster 1_167
+  - first:
+      213: -7113645753767342073
+    second: speedster 1_168
+  - first:
+      213: 482332095270926794
+    second: speedster 1_169
+  - first:
+      213: 7923561386682670105
+    second: speedster 1_170
+  - first:
+      213: -7524144142031465477
+    second: speedster 1_171
+  - first:
+      213: 5611501470059078981
+    second: speedster 1_172
+  - first:
+      213: 6796263064205510697
+    second: speedster 1_173
+  - first:
+      213: 7398936238054787890
+    second: speedster 1_174
+  - first:
+      213: 1793179975574524955
+    second: speedster 1_175
+  - first:
+      213: -145123856556373379
+    second: speedster 1_176
+  - first:
+      213: -7665316020893555322
+    second: speedster 1_177
+  - first:
+      213: -7545410619642202607
+    second: speedster 1_178
+  - first:
+      213: -2434505793503252160
+    second: speedster 1_179
+  - first:
+      213: -2054614217296610125
+    second: speedster 1_180
+  - first:
+      213: -5477115001206470039
+    second: speedster 1_181
+  - first:
+      213: -6765459252447287548
+    second: speedster 1_182
+  - first:
+      213: -4793853333460249603
+    second: speedster 1_183
+  - first:
+      213: 6311620259721356245
+    second: speedster 1_184
+  - first:
+      213: 5211491664832144525
+    second: speedster 1_185
+  - first:
+      213: 5001179776523990974
+    second: speedster 1_186
+  - first:
+      213: 8059006196253361329
+    second: speedster 1_187
+  - first:
+      213: -6318462949593391152
+    second: speedster 1_188
+  - first:
+      213: 1306943041850468008
+    second: speedster 1_189
+  - first:
+      213: -1161003881416106034
+    second: speedster 1_190
+  - first:
+      213: 5713520570073054765
+    second: speedster 1_191
+  - first:
+      213: 1378322057456004989
+    second: speedster 1_192
+  - first:
+      213: 7588187905081314158
+    second: speedster 1_193
+  - first:
+      213: 4594584801325439464
+    second: speedster 1_194
+  - first:
+      213: -2221107733201430404
+    second: speedster 1_195
+  - first:
+      213: 271044463733448746
+    second: speedster 1_196
+  - first:
+      213: 2058636074301429993
+    second: speedster 1_197
+  - first:
+      213: -577731884869879061
+    second: speedster 1_198
+  - first:
+      213: 645789493520028728
+    second: speedster 1_199
+  - first:
+      213: -5643358827811348132
+    second: speedster 1_200
+  - first:
+      213: -8433683847924975190
+    second: speedster 1_201
+  - first:
+      213: 2632212781638708388
+    second: speedster 1_202
+  - first:
+      213: -8649683131501440038
+    second: speedster 1_203
+  - first:
+      213: -477022033157596348
+    second: speedster 1_204
+  - first:
+      213: -2456442154292434932
+    second: speedster 1_205
+  - first:
+      213: 7671605520440266778
+    second: speedster 1_206
+  - first:
+      213: 106683708624857560
+    second: speedster 1_207
+  - first:
+      213: 448935186866484874
+    second: speedster 1_208
+  - first:
+      213: 5061642882082560259
+    second: speedster 1_209
+  - first:
+      213: -2648502896563618992
+    second: speedster 1_210
+  - first:
+      213: 5358757265027108728
+    second: speedster 1_211
+  - first:
+      213: -91805260474697275
+    second: speedster 1_212
+  - first:
+      213: -8361011316369997105
+    second: speedster 1_213
+  - first:
+      213: -8754482024013741590
+    second: speedster 1_214
+  - first:
+      213: 7770925507653443914
+    second: speedster 1_215
+  - first:
+      213: -2761769885168811060
+    second: speedster 1_216
+  - first:
+      213: 3302289105707597451
+    second: speedster 1_217
+  - first:
+      213: 2527679051799137695
+    second: speedster 1_218
+  - first:
+      213: 2956736914602775352
+    second: speedster 1_219
+  - first:
+      213: 6201928823909072749
+    second: speedster 1_220
+  - first:
+      213: 4205988232063160045
+    second: speedster 1_221
+  - first:
+      213: 7460587003631574347
+    second: speedster 1_222
+  - first:
+      213: 3201950827621178765
+    second: speedster 1_223
+  - first:
+      213: -375689930772759539
+    second: speedster 1_224
+  - first:
+      213: 1606850758563263596
+    second: speedster 1_225
+  - first:
+      213: 6794985183228139561
+    second: speedster 1_226
+  - first:
+      213: -7029104479161984834
+    second: speedster 1_227
+  - first:
+      213: 3169706975123523898
+    second: speedster 1_228
+  - first:
+      213: 5768619638272198944
+    second: speedster 1_229
+  - first:
+      213: 8177473357060277663
+    second: speedster 1_230
+  - first:
+      213: -7307014675956382860
+    second: speedster 1_231
+  - first:
+      213: 1243932558718230869
+    second: speedster 1_232
+  - first:
+      213: 6277022025677122412
+    second: speedster 1_233
+  - first:
+      213: -2436742885784758047
+    second: speedster 1_234
+  - first:
+      213: 1861189171485904215
+    second: speedster 1_235
+  - first:
+      213: -1147990870929353240
+    second: speedster 1_236
+  - first:
+      213: -4764897879567420788
+    second: speedster 1_237
+  - first:
+      213: 8185856105556321142
+    second: speedster 1_238
+  - first:
+      213: -2807465327534746281
+    second: speedster 1_239
+  - first:
+      213: -1837130533138504721
+    second: speedster 1_240
+  - first:
+      213: 1534239948571261917
+    second: speedster 1_241
+  - first:
+      213: 6183175124950478909
+    second: speedster 1_242
+  - first:
+      213: -5140786477418331913
+    second: speedster 1_243
+  - first:
+      213: 7459096330656014039
+    second: speedster 1_244
+  - first:
+      213: 6878731591961456149
+    second: speedster 1_245
+  - first:
+      213: -8923802336681559964
+    second: speedster 1_246
+  - first:
+      213: 8674073973621509134
+    second: speedster 1_247
+  - first:
+      213: 7317751347615286891
+    second: speedster 1_248
+  - first:
+      213: 2532958382193355082
+    second: speedster 1_249
+  - first:
+      213: -7794529647661722037
+    second: speedster 1_250
+  - first:
+      213: -1486851600653470331
+    second: speedster 1_251
+  - first:
+      213: -5001416166359935516
+    second: speedster 1_252
+  - first:
+      213: 8698395636885110929
+    second: speedster 1_253
+  - first:
+      213: 4351318506789827363
+    second: speedster 1_254
+  - first:
+      213: -2253041692550901028
+    second: speedster 1_255
+  - first:
+      213: 2756450907543263560
+    second: speedster 1_256
+  - first:
+      213: -5563437294930966407
+    second: speedster 1_257
+  - first:
+      213: 6177920859819916603
+    second: speedster 1_258
+  - first:
+      213: -4669434070221814600
+    second: speedster 1_259
+  - first:
+      213: 5152635806194800129
+    second: speedster 1_260
+  - first:
+      213: 4714863575685419812
+    second: speedster 1_261
+  - first:
+      213: 4546311942334248356
+    second: speedster 1_262
+  - first:
+      213: -959030453665304422
+    second: speedster 1_263
+  - first:
+      213: 3499084999954595795
+    second: speedster 1_264
+  - first:
+      213: 8932638652416775987
+    second: speedster 1_265
+  - first:
+      213: -5994256313270770036
+    second: speedster 1_266
+  - first:
+      213: 1623094662454954395
+    second: speedster 1_267
+  - first:
+      213: 3441837632374346193
+    second: speedster 1_268
+  - first:
+      213: 8986552204771903327
+    second: speedster 1_269
+  - first:
+      213: -6637073775517732635
+    second: speedster 1_270
+  - first:
+      213: 496446119058787095
+    second: speedster 1_271
+  - first:
+      213: 6028774106651612500
+    second: speedster 1_272
+  - first:
+      213: -4999506579803280930
+    second: speedster 1_273
+  - first:
+      213: 5443160769836784487
+    second: speedster 1_274
+  - first:
+      213: 2638348206400186790
+    second: speedster 1_275
+  - first:
+      213: 8252997139314482014
+    second: speedster 1_276
+  - first:
+      213: 3949121807122409045
+    second: speedster 1_277
+  - first:
+      213: 2704967976848431686
+    second: speedster 1_278
+  - first:
+      213: -2121406150531575192
+    second: speedster 1_279
+  - first:
+      213: -6732623890771089335
+    second: speedster 1_280
+  - first:
+      213: -7030175587739387795
+    second: speedster 1_281
+  - first:
+      213: -8282091852743418163
+    second: speedster 1_282
+  - first:
+      213: -4031577404642438927
+    second: speedster 1_283
+  - first:
+      213: -1500228339480822140
+    second: speedster 1_284
+  - first:
+      213: -8243687503065090165
+    second: speedster 1_285
+  - first:
+      213: 1784201041106949617
+    second: speedster 1_286
+  - first:
+      213: 456818503097222512
+    second: speedster 1_287
+  - first:
+      213: 1361597364802734547
+    second: speedster 1_288
+  - first:
+      213: 5255854133708403533
+    second: speedster 1_289
+  - first:
+      213: -7674062581648930391
+    second: speedster 1_290
+  - first:
+      213: -8266873585580278118
+    second: speedster 1_291
+  - first:
+      213: 3666209903378494816
+    second: speedster 1_292
+  - first:
+      213: 4987615561194997629
+    second: speedster 1_293
+  - first:
+      213: -6638004243246942225
+    second: speedster 1_294
+  - first:
+      213: -2807124964374549147
+    second: speedster 1_295
+  - first:
+      213: 4017092156269474138
+    second: speedster 1_296
+  - first:
+      213: -1850476224525077976
+    second: speedster 1_297
+  - first:
+      213: 7261805013902877815
+    second: speedster 1_298
+  - first:
+      213: 2600988606538528602
+    second: speedster 1_299
+  - first:
+      213: -6979029152498131519
+    second: speedster 1_300
+  - first:
+      213: 8589875434608376334
+    second: speedster 1_301
+  - first:
+      213: -3997365590045062757
+    second: speedster 1_302
+  - first:
+      213: -6398090484251893440
+    second: speedster 1_303
+  - first:
+      213: -497666093242922218
+    second: speedster 1_304
+  - first:
+      213: 4300954544319005247
+    second: speedster 1_305
+  - first:
+      213: 2234472620120549192
+    second: speedster 1_306
+  - first:
+      213: 280030579863695140
+    second: speedster 1_307
+  - first:
+      213: -7815470838114945797
+    second: speedster 1_308
+  - first:
+      213: -857168809023652111
+    second: speedster 1_309
+  - first:
+      213: -71205235529776021
+    second: speedster 1_310
+  - first:
+      213: -1908225579868150126
+    second: speedster 1_311
+  - first:
+      213: 8814832261885651057
+    second: speedster 1_312
+  - first:
+      213: -2962393536195774963
+    second: speedster 1_313
+  - first:
+      213: -3596193048248239371
+    second: speedster 1_314
+  - first:
+      213: 7628046253402571615
+    second: speedster 1_315
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speedster 1_0
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1295
+        width: 930
+        height: 2382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ddea18974b1e450800000000000000
+      internalID: 6116368202905607477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedster 1_1
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2718
+        width: 1141
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c2d08dc7329b4eba893d1fd120c5d
+      internalID: -5273358832807311888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedster 1_2
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2244
+        width: 1350
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdc3552942594d4d84a0c8af905287f
+      internalID: -6039060572021648907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedster 1_3
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1910
+        width: 1395
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bac57e7d3cbbf429a9754e416752c7
+      internalID: 7183010710615208051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedster 1_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1461
+        width: 1337
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3348739a44d19b740982cd0646556c70
+      internalID: -5235544454689317108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedster 1_5
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 948
+        width: 1357
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51e131cf3fc3e469c3cae1419789e9
+      internalID: -6437929085964980319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedster 1_6
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 243
+        width: 1593
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee38c6a6f18dec4c8939da9a8dd60b5
+      internalID: 3731145830899623999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speedster 1_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 676
+        width: 1039
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d729284e258814399ebe274362c804
+      internalID: 8937767777271901675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c18c6be9a675a76419cc2ce932485062
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":3000.0,"y":4000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      speedster 1_0: 6116368202905607477
+      speedster 1_1: -5273358832807311888
+      speedster 1_2: -6039060572021648907
+      speedster 1_3: 7183010710615208051
+      speedster 1_4: -5235544454689317108
+      speedster 1_5: -6437929085964980319
+      speedster 1_6: 3731145830899623999
+      speedster 1_7: 8937767777271901675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

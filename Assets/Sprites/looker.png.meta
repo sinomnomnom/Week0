@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: c7dd89ce061da1c4d822f40924d3dc78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3307493951145542869
+    second: looker_0
+  - first:
+      213: 8622666694551580859
+    second: looker_1
+  - first:
+      213: 4858781387115207934
+    second: looker_2
+  - first:
+      213: 9078782175846718865
+    second: looker_3
+  - first:
+      213: 8476561886309455370
+    second: looker_4
+  - first:
+      213: -5760843778430405538
+    second: looker_5
+  - first:
+      213: 4135084222670997079
+    second: looker_6
+  - first:
+      213: -635546456761563192
+    second: looker_7
+  - first:
+      213: 1644449244076747642
+    second: looker_8
+  - first:
+      213: -8331025268060201748
+    second: looker_9
+  - first:
+      213: 1139945615562986744
+    second: looker_10
+  - first:
+      213: -9003075759276892649
+    second: looker_11
+  - first:
+      213: -8261248799855146584
+    second: looker_12
+  - first:
+      213: -3170792346169747873
+    second: looker_13
+  - first:
+      213: -9012963269072925617
+    second: looker_14
+  - first:
+      213: -1618201486009831391
+    second: looker_15
+  - first:
+      213: 8173180608259357805
+    second: looker_16
+  - first:
+      213: -5193037716853351783
+    second: looker_17
+  - first:
+      213: -8478875268059507041
+    second: looker_18
+  - first:
+      213: 592750238096549789
+    second: looker_19
+  - first:
+      213: 3069564316815575152
+    second: looker_20
+  - first:
+      213: 8685323041514168754
+    second: looker_21
+  - first:
+      213: -4215756466749936448
+    second: looker_22
+  - first:
+      213: 8628376921509737688
+    second: looker_23
+  - first:
+      213: -1182636873916835084
+    second: looker_24
+  - first:
+      213: -2765910274026701160
+    second: looker_25
+  - first:
+      213: -7290278287224769545
+    second: looker_26
+  - first:
+      213: -406917486278810812
+    second: looker_27
+  - first:
+      213: -7943211656082378141
+    second: looker_28
+  - first:
+      213: -2812458341483949208
+    second: looker_29
+  - first:
+      213: -4291570100040040860
+    second: looker_30
+  - first:
+      213: 1190605875404283792
+    second: looker_31
+  - first:
+      213: -2160700926021129948
+    second: looker_32
+  - first:
+      213: 5381332681646793461
+    second: looker_33
+  - first:
+      213: 2409070163553184790
+    second: looker_34
+  - first:
+      213: -2159247477476372538
+    second: looker_35
+  - first:
+      213: -2479343732291230012
+    second: looker_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: looker_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2680
+        width: 157
+        height: 1320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b773976cb6912d0800000000000000
+      internalID: -3307493951145542869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 3740
+        width: 2208
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0b6518cadd9a770800000000000000
+      internalID: 8622666694551580859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1279
+        width: 1121
+        height: 2382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc184cbdebdd6340800000000000000
+      internalID: 4858781387115207934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_3
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 3359
+        width: 785
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ddd7899405efd70800000000000000
+      internalID: 9078782175846718865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_4
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 3123
+        width: 537
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a061716ff1cc2a570800000000000000
+      internalID: 8476561886309455370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_5
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2655
+        width: 822
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54f2241b1f5d00b0800000000000000
+      internalID: -5760843778430405538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_6
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1993
+        width: 1044
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75680a02135c26930800000000000000
+      internalID: 4135084222670997079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_7
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2569
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c708766dd51e27f0800000000000000
+      internalID: -635546456761563192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_8
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 2511
+        width: 7
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7baa54ffd142d610800000000000000
+      internalID: 1644449244076747642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 617
+        height: 2072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecd77a88a0426c80800000000000000
+      internalID: -8331025268060201748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1789
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f455e66f76e1df00800000000000000
+      internalID: 1139945615562986744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_11
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1666
+        width: 1045
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ede5a1c46ae0380800000000000000
+      internalID: -9003075759276892649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_12
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 107
+        width: 1725
+        height: 1549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9038b8cf52a5d80800000000000000
+      internalID: -8261248799855146584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_13
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1380
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56560629251ff3d0800000000000000
+      internalID: -3170792346169747873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_14
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cc345d8a58be280800000000000000
+      internalID: -9012963269072925617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_15
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ff53725efa89e0800000000000000
+      internalID: -1618201486009831391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_16
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1337
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cf868b578fc6170800000000000000
+      internalID: 8173180608259357805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_17
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a10cdd5bf9ee7b0800000000000000
+      internalID: -5193037716853351783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_18
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1307
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96d770eddbf45a80800000000000000
+      internalID: -8478875268059507041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_19
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1280
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97e546733fd93800800000000000000
+      internalID: 592750238096549789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_20
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1294
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078c10f9b78499a20800000000000000
+      internalID: 3069564316815575152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_21
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a7f81a47788870800000000000000
+      internalID: 8685323041514168754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_22
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1290
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc60db54df9e75c0800000000000000
+      internalID: -4215756466749936448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1276
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d434c258172eb770800000000000000
+      internalID: 8628376921509737688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa98ef670e669fe0800000000000000
+      internalID: -1182636873916835084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_25
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 753
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ef80c92438d99d0800000000000000
+      internalID: -2765910274026701160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_26
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 738
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f37938f58ab3da90800000000000000
+      internalID: -7290278287224769545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_27
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 491
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443e471c3b65a5af0800000000000000
+      internalID: -406917486278810812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_28
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362b77f651b04c190800000000000000
+      internalID: -7943211656082378141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_29
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 457
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863d34a1a0428f8d0800000000000000
+      internalID: -2812458341483949208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_30
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 405
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46efc625bb74174c0800000000000000
+      internalID: -4291570100040040860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_31
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f17fe4cb1e58010800000000000000
+      internalID: 1190605875404283792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_32
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 386
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42927a6a4f5a302e0800000000000000
+      internalID: -2160700926021129948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_33
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 0
+        width: 377
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2e1cbff855eaa40800000000000000
+      internalID: 5381332681646793461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_34
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 17
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c6499cc8cbe6120800000000000000
+      internalID: 2409070163553184790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_35
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 24
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfccd20cdfc802e0800000000000000
+      internalID: -2159247477476372538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: looker_36
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6a0b8f20a979dd0800000000000000
+      internalID: -2479343732291230012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      looker_0: -3307493951145542869
+      looker_1: 8622666694551580859
+      looker_10: 1139945615562986744
+      looker_11: -9003075759276892649
+      looker_12: -8261248799855146584
+      looker_13: -3170792346169747873
+      looker_14: -9012963269072925617
+      looker_15: -1618201486009831391
+      looker_16: 8173180608259357805
+      looker_17: -5193037716853351783
+      looker_18: -8478875268059507041
+      looker_19: 592750238096549789
+      looker_2: 4858781387115207934
+      looker_20: 3069564316815575152
+      looker_21: 8685323041514168754
+      looker_22: -4215756466749936448
+      looker_23: 8628376921509737688
+      looker_24: -1182636873916835084
+      looker_25: -2765910274026701160
+      looker_26: -7290278287224769545
+      looker_27: -406917486278810812
+      looker_28: -7943211656082378141
+      looker_29: -2812458341483949208
+      looker_3: 9078782175846718865
+      looker_30: -4291570100040040860
+      looker_31: 1190605875404283792
+      looker_32: -2160700926021129948
+      looker_33: 5381332681646793461
+      looker_34: 2409070163553184790
+      looker_35: -2159247477476372538
+      looker_36: -2479343732291230012
+      looker_4: 8476561886309455370
+      looker_5: -5760843778430405538
+      looker_6: 4135084222670997079
+      looker_7: -635546456761563192
+      looker_8: 1644449244076747642
+      looker_9: -8331025268060201748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

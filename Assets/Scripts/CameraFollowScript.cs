@@ -41,11 +41,11 @@ public class CameraFollowScript : MonoBehaviour
 
         if (Math.Abs(x.magnitude) > 8*16f/10f)
         {
-            transform.position += (x) * 1.99f;
+            transform.position += (x) * 1.95f;
         }
         if (Math.Abs(y.magnitude) > 8)
         {
-            transform.position += (y) * 1.98f;
+            transform.position += (y) * 1.95f;
         }
     }
 }

@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 24762d7dfcef5204c9cafe94576c96b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1822011564095345700
+    second: sitter_0
+  - first:
+      213: 329761178452181107
+    second: sitter_1
+  - first:
+      213: -6191229132060630949
+    second: sitter_2
+  - first:
+      213: 955376137797884675
+    second: sitter_3
+  - first:
+      213: -7412900980301634790
+    second: sitter_4
+  - first:
+      213: -7184585258821807523
+    second: sitter_5
+  - first:
+      213: -2925671644893598714
+    second: sitter_6
+  - first:
+      213: -6174468756227987026
+    second: sitter_7
+  - first:
+      213: 4792647179473821014
+    second: sitter_8
+  - first:
+      213: -1859968854171176559
+    second: sitter_9
+  - first:
+      213: -5152777254801387231
+    second: sitter_10
+  - first:
+      213: 7131573043178624246
+    second: sitter_11
+  - first:
+      213: 3852378702588552879
+    second: sitter_12
+  - first:
+      213: 2648251219617918768
+    second: sitter_13
+  - first:
+      213: 3123341713486081050
+    second: sitter_14
+  - first:
+      213: -938279982250213003
+    second: sitter_15
+  - first:
+      213: 578211840474417434
+    second: sitter_16
+  - first:
+      213: 2065407102503125247
+    second: sitter_17
+  - first:
+      213: 3040148735246090171
+    second: sitter_18
+  - first:
+      213: 4965899961898814162
+    second: sitter_19
+  - first:
+      213: 1974904819797779095
+    second: sitter_20
+  - first:
+      213: 4405226492975738923
+    second: sitter_21
+  - first:
+      213: -3481084103766072542
+    second: sitter_22
+  - first:
+      213: 4459477676158518019
+    second: sitter_23
+  - first:
+      213: 6953568459709520681
+    second: sitter_24
+  - first:
+      213: 6296741633814898655
+    second: sitter_25
+  - first:
+      213: 7197107447773291654
+    second: sitter_26
+  - first:
+      213: -8464563148058029631
+    second: sitter_27
+  - first:
+      213: -4366758457620902840
+    second: sitter_28
+  - first:
+      213: 5110212280252315353
+    second: sitter_29
+  - first:
+      213: 5049345219471376739
+    second: sitter_30
+  - first:
+      213: -1207008348485480284
+    second: sitter_31
+  - first:
+      213: 2092185758763154106
+    second: sitter_32
+  - first:
+      213: -1816263579437038185
+    second: sitter_33
+  - first:
+      213: -6372329940495606642
+    second: sitter_34
+  - first:
+      213: -258532609336772874
+    second: sitter_35
+  - first:
+      213: 8968627283272358864
+    second: sitter_36
+  - first:
+      213: 8149727367153914839
+    second: sitter_37
+  - first:
+      213: 5042980089376594412
+    second: sitter_38
+  - first:
+      213: 9209531541391933333
+    second: sitter_39
+  - first:
+      213: -6702111492752528252
+    second: sitter_40
+  - first:
+      213: 2341381225998759573
+    second: sitter_41
+  - first:
+      213: 5699475426477897555
+    second: sitter_42
+  - first:
+      213: 5707987082512456109
+    second: sitter_43
+  - first:
+      213: -6590525672015056174
+    second: sitter_44
+  - first:
+      213: -7941368732441555433
+    second: sitter_45
+  - first:
+      213: 462907483870266312
+    second: sitter_46
+  - first:
+      213: -7360305372026057702
+    second: sitter_47
+  - first:
+      213: -7824646301312517992
+    second: sitter_48
+  - first:
+      213: -5655699475778583605
+    second: sitter_49
+  - first:
+      213: 7016900066829646012
+    second: sitter_50
+  - first:
+      213: -3394306506728477713
+    second: sitter_51
+  - first:
+      213: 1783464086450923077
+    second: sitter_52
+  - first:
+      213: -4249931932799090348
+    second: sitter_53
+  - first:
+      213: 8495428882994216662
+    second: sitter_54
+  - first:
+      213: 8127097744151480151
+    second: sitter_55
+  - first:
+      213: 1654386350530426351
+    second: sitter_56
+  - first:
+      213: -6773043788188833540
+    second: sitter_57
+  - first:
+      213: -1768680943376040640
+    second: sitter_58
+  - first:
+      213: 3975866941091593989
+    second: sitter_59
+  - first:
+      213: -8622426224845108709
+    second: sitter_60
+  - first:
+      213: -4817976369565473336
+    second: sitter_61
+  - first:
+      213: -6427022211154679557
+    second: sitter_62
+  - first:
+      213: -3588511950653968509
+    second: sitter_63
+  - first:
+      213: -660061395214878782
+    second: sitter_64
+  - first:
+      213: 1476576009908239326
+    second: sitter_65
+  - first:
+      213: 2698325270924970619
+    second: sitter_66
+  - first:
+      213: 4433220290973258387
+    second: sitter_67
+  - first:
+      213: 3000471208280184645
+    second: sitter_68
+  - first:
+      213: -8295209493918758314
+    second: sitter_69
+  - first:
+      213: 2739856700168106692
+    second: sitter_70
+  - first:
+      213: 9046258732388275614
+    second: sitter_71
+  - first:
+      213: 5167902217328218005
+    second: sitter_72
+  - first:
+      213: -2235694995750040568
+    second: sitter_73
+  - first:
+      213: -4940271871844700205
+    second: sitter_74
+  - first:
+      213: -277934090576154519
+    second: sitter_75
+  - first:
+      213: 4962186910344409039
+    second: sitter_76
+  - first:
+      213: 1837210834070830685
+    second: sitter_77
+  - first:
+      213: -952159754359499743
+    second: sitter_78
+  - first:
+      213: -4647597286445362389
+    second: sitter_79
+  - first:
+      213: -8494284345818741624
+    second: sitter_80
+  - first:
+      213: 6350695498102670620
+    second: sitter_81
+  - first:
+      213: 6065872325707202089
+    second: sitter_82
+  - first:
+      213: -6911111599346017879
+    second: sitter_83
+  - first:
+      213: -8225485378603410526
+    second: sitter_84
+  - first:
+      213: -4625429750095613017
+    second: sitter_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sitter_0
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2385
+        width: 1119
+        height: 1555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4249e863dd5194910800000000000000
+      internalID: 1822011564095345700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sitter_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1820
+        width: 1395
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916c7df55223fc34fa6a5104fb6da860
+      internalID: 329761178452181107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sitter_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1102
+        width: 1927
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed7a0fbdf9f08040b18da57367e3f97
+      internalID: -6191229132060630949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sitter_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 624
+        width: 2071
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2064abff44320a545a63973c03fabbb9
+      internalID: 955376137797884675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sitter_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 1763
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7885dd5be4e28a48b94ddc843cd0ad4
+      internalID: -7412900980301634790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sitter_5
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1817
+        width: 911
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f942efacc08b8f146949e61eddeba14f
+      internalID: -7184585258821807523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 34a39e53240c22545b8683680c716a8a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":3000.0,"y":4000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sitter_0: 1822011564095345700
+      sitter_1: 329761178452181107
+      sitter_2: -6191229132060630949
+      sitter_3: 955376137797884675
+      sitter_4: -7412900980301634790
+      sitter_5: -7184585258821807523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

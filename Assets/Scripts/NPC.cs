@@ -8,8 +8,9 @@ public class NPC : MonoBehaviour
     public GameObject dialogGameObject;
     public bool triggered = false;
     float timer = 0;
-    float interval = 5;
+    float interval = 7;
     int index = 0;
+    public AudioSource audioSource;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -26,8 +27,8 @@ public class NPC : MonoBehaviour
             {
                 timer = 0;
                 index += 1;
-                if (sprites.Count <= index) dialogGameObject.GetComponent<SpriteRenderer>().sprite = null;
-                else { dialogGameObject.GetComponent<SpriteRenderer>().sprite = sprites[index]; }
+                
+                UpdateDialog();
                     
             }
         }
@@ -38,8 +39,13 @@ public class NPC : MonoBehaviour
         if (collision.collider.gameObject.tag == "Player")
         {
             triggered = true;
-            if (sprites.Count <= index) dialogGameObject.GetComponent<SpriteRenderer>().sprite = null;
-            else { dialogGameObject.GetComponent<SpriteRenderer>().sprite = sprites[index]; }
+            UpdateDialog();
         }
+    }
+
+    private void UpdateDialog()
+    {
+        if (sprites.Count <= index) { dialogGameObject.GetComponent<SpriteRenderer>().sprite = null; }
+        else { dialogGameObject.GetComponent<SpriteRenderer>().sprite = sprites[index]; audioSource.Play(); }
     }
 }
